@@ -1,7 +1,11 @@
 [
   {
+    "key": 1,
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimagenews/main/11.jpg"
+  },
+  {
     "key": 2,
-    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimagenews/main/2.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimagenews/main/22.jpg"
   },
   {
     "key": 3,
@@ -17,7 +21,7 @@
   },
   {
     "key": 6,
-    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimagenews/main/6.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimagenews/main/66.jpg"
   },
   {
     "key": 7,
